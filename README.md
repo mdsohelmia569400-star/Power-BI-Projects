@@ -43,7 +43,7 @@ Project Demo:
 
     A short video walkthrough of this dashboard is shared on LinkedIn.
     
-    🔗 LinkedIn Post: (Add your LinkedIn post link here)
+    🔗 LinkedIn Post: (https://www.linkedin.com/posts/md-sohel-397564382_powerbi-dataanalytics-businessintelligence-activity-7416915927595913217-hNJ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5pHyMBGJbXxHXFKMhAGcI2Z-qKtwBJT9k)
 
 How to Use:
 
